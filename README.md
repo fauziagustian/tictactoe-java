@@ -4,6 +4,13 @@
 2. javac Main.java
 3. java Main
 
+# How to play my tic tac toe
+Tic Tac Toe is a classic game for two players.
+The goal of the game is to be the first player to place three of your symbols in a row, either vertically, horizontally, or diagonally.
+The game is played on a grid of squares, and players take turns placing their symbols in the empty squares.
+There are several variations of Tic Tac Toe, including 3x3, 5x5, and 9x9 versions.
+The rules of the game are the same for all variations, but the larger boards require more strategy and planning.
+
 # OUTPUT Sample
 
 Welcome to Tic Tac Toe!
