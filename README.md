@@ -67,8 +67,3 @@ Player X's turn (X)
 | - | X | - |
 
 Player X wins!
-
-O X O
-O X X
-- X -
-Player X wins!
